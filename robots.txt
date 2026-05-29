@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cosmos0111-cmyk.github.io/bp-t3b06-mw-club-cmp-1//sitemap.xml
