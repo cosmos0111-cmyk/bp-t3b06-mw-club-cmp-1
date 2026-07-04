@@ -1,3 +1,10 @@
 User-agent: *
 Allow: /
-Sitemap: https://cosmos0111-cmyk.github.io/bp-t3b06-mw-club-cmp-1//sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://mangwon-club-hot.mapo-room-guide.xyz/sitemap.xml
